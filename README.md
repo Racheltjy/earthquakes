@@ -1,4 +1,4 @@
-This exercise will look at how to read data from an online source (web service), explore and and process it.
+    This exercise will look at how to read data from an online source (web service), explore and and process it.
 
 You will work with a dataset describing earthquakes, provided by the [US Geological Survey](https://earthquake.usgs.gov/).
 Your task will be to find the **location** and **magnitude** of the strongest earthquake in the UK in the last century.
